@@ -2,3 +2,56 @@
 Mini guia sobre como utilizar o NotebookLM para potencializar estudos, organização e tomada de decisões. O projeto apresenta aplicações práticas da ferramenta em educação financeira, carreiras em tecnologia e estratégias de produtividade baseadas na construção de hábitos.
 
 # Introdução
+Iniciei este projeto com o objetivo de explorar o potencial do NotebookLM como uma ferramenta de apoio ao desenvolvimento de estudantes e profissionais iniciantes na área de tecnologia. Ao longo da minha trajetória, percebi que muitos iniciantes enfrentam dificuldades para organizar conteúdos, definir caminhos de carreira e manter uma rotina de estudos consistente.
+
+Este guia foi elaborado com base em diferentes fontes de apoio ao desenvolvimento pessoal e profissional, reunindo conceitos presentes nos livros Hábitos Atômicos, de James Clear, e O Poder do Hábito, de Charles Duhigg, além de vídeos sobre carreiras na área de tecnologia e informações obtidas em sites especializados que apresentam faixas salariais, atribuições e perspectivas das diferentes profissões do setor. O objetivo é oferecer um material prático e fundamentado para auxiliar iniciantes em tecnologia na construção de hábitos de estudo, na exploração de possibilidades de carreira e na tomada de decisões mais conscientes sobre seu desenvolvimento profissional.
+
+Este guia busca apresentar aplicações práticas do NotebookLM para auxiliar na exploração de carreiras em tecnologia, na estruturação de planos de estudo e na construção de hábitos que favoreçam a aprendizagem contínua e a preparação para o mercado de trabalho.
+
+Para isso, vamos focar em 3 áreas:
+
+1. Carreiras em tecnologia
+2. Estratégias de produtividade
+3. Construção de hábitos 
+
+Ao final deste material, espera-se que o leitor seja capaz de utilizar o NotebookLM de forma estratégica para organizar informações, transformar conteúdos em ações práticas e conduzir seu desenvolvimento profissional com mais clareza e autonomia.
+
+# Fontes e links
+Este campo é destinado à disponibilização de links, referências e fontes utilizadas na elaboração deste material, permitindo a consulta, o aprofundamento dos estudos e a verificação das informações apresentadas.
+
+Fontes de vídeos:
+https://youtu.be/tv0XwWQilZM?si=3dx5c-W-SRiuhB3y
+https://youtu.be/9fIMxlycp1g?si=oOC-GJRft9s-ogkX
+https://youtu.be/W8etAiDCV7c?si=9WW5V9xSsguJ1nAx
+
+
+Fontes de textos:
+https://www.insper.edu.br/pt/conteudos/tecnologia/quais-as-areas-de-tecnologia-mais-lucrativas-e-promissoras
+https://querobolsa.com.br/revista/10-profissoes-em-alta-na-area-de-tecnologia
+https://unifaveni.com.br/conheca-diversos-metodos-de-estudo-para-melhorar-sua-aprendizagem/
+
+# Prompts que você pode usar
+A seguir, são apresentados alguns exemplos de prompts que podem ser utilizados como ponto de partida para explorar os recursos do NotebookLM. Eles podem ser adaptados de acordo com as necessidades, objetivos e contexto de cada usuário, servindo como apoio para orientar estudos, explorar carreiras na área de tecnologia e estruturar estratégias de aprendizagem mais eficientes.
+
+Prompt 1 - Hábitos para estudos.
+
+Com base nos conceitos sobre formação de hábitos presentes nos materiais, crie uma estratégia para me ajudar a estudar [assunto] para [objetivo]. Considere minha rotina atual e o tempo disponível de [tempo disponível]. Utilize estratégias como [estratégia de hábito] e apresente um plano prático com ações e hábitos recomendados.
+
+Prompt 2 - Exploração de carreiras em tecnologia
+
+Com base nas informações disponíveis sobre carreiras em tecnologia, sugira áreas compatíveis com meus interesses em [área/interesses]. Considere minhas habilidades em [habilidades] e meus objetivos profissionais em [objetivos]. Compare opções como [carreira 1] e [carreira 2], destacando atividades, competências exigidas e recomendações para começar.
+
+Prompt 3 - Escolha da carreira ideal
+
+Estou em dúvida entre [carreira 1] e [carreira 2]. Analise qual delas possui maior alinhamento com meu perfil, considerando meus pontos fortes em [pontos fortes], minhas expectativas em [expectativas] e minhas preferências em [preferências]. Apresente uma recomendação justificada, incluindo vantagens e desafios de cada opção.
+
+Prompt 4 - Plano de estudos personalizado
+
+Crie um plano de estudos para que eu aprenda [conteúdo] e alcance [objetivo] dentro do prazo de [prazo]. Considere meu nível atual em [nível atual], o tempo diário disponível de [tempo diário] e aplique estratégias como [estratégia de hábito] para aumentar minha consistência. Organize a resposta em um cronograma com metas e atividades sugeridas.
+
+Prompt 5 - Preparação para o mercado de trabalho
+
+Desenvolva uma estratégia para que eu me prepare para atuar como [cargo desejado]. Considere meus conhecimentos atuais em [conhecimentos atuais], o tempo disponível em [tempo disponível] e os recursos que possuo em [recursos]. Apresente um roteiro com competências prioritárias, sugestões de estudo, projetos para portfólio e próximos passos para ingressar na área.
+
+
+
