@@ -21,13 +21,17 @@ Este campo é destinado à disponibilização de links, referências e fontes ut
 
 Fontes de vídeos:
 https://youtu.be/tv0XwWQilZM?si=3dx5c-W-SRiuhB3y
+
 https://youtu.be/9fIMxlycp1g?si=oOC-GJRft9s-ogkX
+
 https://youtu.be/W8etAiDCV7c?si=9WW5V9xSsguJ1nAx
 
 
 Fontes de textos:
 https://www.insper.edu.br/pt/conteudos/tecnologia/quais-as-areas-de-tecnologia-mais-lucrativas-e-promissoras
+
 https://querobolsa.com.br/revista/10-profissoes-em-alta-na-area-de-tecnologia
+
 https://unifaveni.com.br/conheca-diversos-metodos-de-estudo-para-melhorar-sua-aprendizagem/
 
 # Sugestões de prompts que você pode usar
@@ -67,6 +71,28 @@ Ex: Desenvolva uma estratégia para que eu me prepare para atuar como Analista d
 
 Durante a utilização da IA, registrei as respostas mais relevantes e as referências utilizadas para fundamentar as informações apresentadas. Também observei que a qualidade dos resultados depende diretamente da clareza dos prompts. Em alguns momentos, as respostas foram muito genéricas ou não atenderam completamente ao objetivo proposto, exigindo ajustes na forma de fazer as perguntas, inclusão de mais contexto e definição do formato esperado da saída. Esse processo de tentativa, refinamento e validação das informações evidenciou a importância do pensamento crítico e do troubleshooting na interação com ferramentas de IA. Compreendi que obter bons resultados não depende apenas da tecnologia, mas também da capacidade do usuário de formular instruções precisas, avaliar as respostas geradas e iterar até alcançar uma solução adequada.
 
-# 
+# Glossário de conceitos aprendidos
+Glossário de Conceitos Chave
+Automaticidade: Capacidade de realizar um comportamento sem pensar conscientemente em cada passo, após centenas de repetições
+.
+Dispositivo de Compromisso: Uma escolha feita no presente que controla suas ações no futuro (ex: pagar a academia adiantado para garantir a ida)
+.
+Efeito Diderot: Fenômeno onde a obtenção de uma nova posse cria uma espiral de consumo que leva a compras adicionais
+.
+Estado de Fluxo (Flow): Estado mental de imersão total em uma tarefa, alcançado quando o desafio está cerca de 4% além da capacidade atual (Regra de Caixinhos Dourados)
+.
+Fine-tuning: Processo de pegar um modelo de IA pronto e treiná-lo com dados específicos de uma empresa para torná-lo especialista naquele domínio
+.
+Hábito Angular (Keystone Habit): Um hábito que, quando alterado, provoca uma reação em cadeia e reorganiza outros padrões na vida ou em uma organização (ex: exercício físico ou anotar gastos)
+.
+MLOps: Integração de conceitos de DevOps com Machine Learning, focando em qualidade, robustez e manutenção de modelos em longo prazo
+.
+Platô do Potencial Latente: O período em que o esforço é feito, mas os resultados não são visíveis até que um limite crítico seja cruzado
+
+# Conclusão
+O mercado de tecnologia oferece excelentes oportunidades de crescimento, com alta demanda por profissionais em áreas como Ciência de Dados, Inteligência Artificial, Cloud Computing e Segurança da Informação. Além das competências técnicas, como Python e SQL, habilidades como comunicação, resolução de problemas e visão de negócio tornaram-se diferenciais importantes em um cenário cada vez mais influenciado pela inteligência artificial.
+As fontes destacam que o desenvolvimento profissional depende da criação de sistemas e hábitos consistentes, priorizando o progresso diário em vez da busca exclusiva por metas. Estratégias como o empilhamento de hábitos, a regra dos dois minutos e a organização do ambiente ajudam a manter a disciplina e reduzir a procrastinação. Também é reforçada a importância do planejamento financeiro, do investimento contínuo e da aprendizagem ao longo da vida. Para potencializar os estudos, técnicas como Pomodoro, Feynman e Método Cornell são apresentadas como ferramentas eficazes para melhorar a compreensão, a organização e a retenção do conhecimento.
+
+
 
 
