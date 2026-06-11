@@ -30,28 +30,43 @@ https://www.insper.edu.br/pt/conteudos/tecnologia/quais-as-areas-de-tecnologia-m
 https://querobolsa.com.br/revista/10-profissoes-em-alta-na-area-de-tecnologia
 https://unifaveni.com.br/conheca-diversos-metodos-de-estudo-para-melhorar-sua-aprendizagem/
 
-# Prompts que você pode usar
+# Sugestões de prompts que você pode usar
 A seguir, são apresentados alguns exemplos de prompts que podem ser utilizados como ponto de partida para explorar os recursos do NotebookLM. Eles podem ser adaptados de acordo com as necessidades, objetivos e contexto de cada usuário, servindo como apoio para orientar estudos, explorar carreiras na área de tecnologia e estruturar estratégias de aprendizagem mais eficientes.
 
 Prompt 1 - Hábitos para estudos.
 
 Com base nos conceitos sobre formação de hábitos presentes nos materiais, crie uma estratégia para me ajudar a estudar [assunto] para [objetivo]. Considere minha rotina atual e o tempo disponível de [tempo disponível]. Utilize estratégias como [estratégia de hábito] e apresente um plano prático com ações e hábitos recomendados.
 
+Ex: Com base nos conceitos sobre formação de hábitos presentes nos materiais, crie uma estratégia para me ajudar a estudar ciência de dados para uma vaga de júnior. Considere minha rotina atual e o tempo disponível de 2h por dia. Utilize estratégias como o empilhamento de hábito e apresente um plano prático com ações e hábitos recomendados.
+
 Prompt 2 - Exploração de carreiras em tecnologia
 
 Com base nas informações disponíveis sobre carreiras em tecnologia, sugira áreas compatíveis com meus interesses em [área/interesses]. Considere minhas habilidades em [habilidades] e meus objetivos profissionais em [objetivos]. Compare opções como [carreira 1] e [carreira 2], destacando atividades, competências exigidas e recomendações para começar.
+
+Ex: Com base nas informações disponíveis sobre carreiras em tecnologia, sugira áreas compatíveis com meus interesses em dados e BI. Considere minhas habilidades em Python e SQL e meus objetivos profissionais em evoluir profissionalmente. Compare opções como Analista de Dados e Cientista de dados, destacando atividades, competências exigidas e recomendações para começar.
 
 Prompt 3 - Escolha da carreira ideal
 
 Estou em dúvida entre [carreira 1] e [carreira 2]. Analise qual delas possui maior alinhamento com meu perfil, considerando meus pontos fortes em [pontos fortes], minhas expectativas em [expectativas] e minhas preferências em [preferências]. Apresente uma recomendação justificada, incluindo vantagens e desafios de cada opção.
 
+Ex: Estou em dúvida entre Analista de dados e Analista de segurança. Analise qual delas possui maior alinhamento com meu perfil, considerando meus pontos fortes em adaptabilidade, perfil analítico e fundamentos de segurança, minhas expectativas em crescimento da área e salários e minhas preferências em modelos híbridos e remotos. Apresente uma recomendação justificada, incluindo vantagens e desafios de cada opção.
+
 Prompt 4 - Plano de estudos personalizado
 
 Crie um plano de estudos para que eu aprenda [conteúdo] e alcance [objetivo] dentro do prazo de [prazo]. Considere meu nível atual em [nível atual], o tempo diário disponível de [tempo diário] e aplique estratégias como [estratégia de hábito] para aumentar minha consistência. Organize a resposta em um cronograma com metas e atividades sugeridas.
+
+Ex: Crie um plano de estudos para que eu aprenda Ciência de dados e alcance o conhecimento de um júnior dentro do prazo de 6 meses. Considere meu nível atual em iniciante, o tempo diário disponível de 1h por dia e aplique estratégias como empilhamento de hábitos para aumentar minha consistência. Organize a resposta em um cronograma com metas e atividades sugeridas.
 
 Prompt 5 - Preparação para o mercado de trabalho
 
 Desenvolva uma estratégia para que eu me prepare para atuar como [cargo desejado]. Considere meus conhecimentos atuais em [conhecimentos atuais], o tempo disponível em [tempo disponível] e os recursos que possuo em [recursos]. Apresente um roteiro com competências prioritárias, sugestões de estudo, projetos para portfólio e próximos passos para ingressar na área.
 
+Ex: Desenvolva uma estratégia para que eu me prepare para atuar como Analista de cibersegurança. Considere meus conhecimentos atuais em redes e sistemas operacionais, o tempo disponível em 1h por dia e os recursos que possuo em plataformas como a DIO. Apresente um roteiro com competências prioritárias, sugestões de estudo, projetos para portfólio e próximos passos para ingressar na área.
+
+# 
+
+Durante a utilização da IA, registrei as respostas mais relevantes e as referências utilizadas para fundamentar as informações apresentadas. Também observei que a qualidade dos resultados depende diretamente da clareza dos prompts. Em alguns momentos, as respostas foram muito genéricas ou não atenderam completamente ao objetivo proposto, exigindo ajustes na forma de fazer as perguntas, inclusão de mais contexto e definição do formato esperado da saída. Esse processo de tentativa, refinamento e validação das informações evidenciou a importância do pensamento crítico e do troubleshooting na interação com ferramentas de IA. Compreendi que obter bons resultados não depende apenas da tecnologia, mas também da capacidade do usuário de formular instruções precisas, avaliar as respostas geradas e iterar até alcançar uma solução adequada.
+
+# 
 
 
