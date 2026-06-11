@@ -1,6 +1,8 @@
 # mini-guia-estudos-notebooklm
 Mini guia sobre como utilizar o NotebookLM para potencializar estudos, organização e tomada de decisões. O projeto apresenta aplicações práticas da ferramenta em educação financeira, carreiras em tecnologia e estratégias de produtividade baseadas na construção de hábitos.
 
+link: https://notebooklm.google.com/notebook/383ccb0d-d58a-433a-8f73-d3c3fc15101d
+
 # Introdução
 Iniciei este projeto com o objetivo de explorar o potencial do NotebookLM como uma ferramenta de apoio ao desenvolvimento de estudantes e profissionais iniciantes na área de tecnologia. Ao longo da minha trajetória, percebi que muitos iniciantes enfrentam dificuldades para organizar conteúdos, definir caminhos de carreira e manter uma rotina de estudos consistente.
 
